@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Test 1",
+      "setup": "",
+      "run": "python3 main.py",
+      "input": "[1000000, 2356989]",
+      "output": "['1,000,000', '2,356,989']",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 2
+    }
+  ]
+}
